@@ -17,17 +17,6 @@
 
 React (hooks, Context, React Router, TanStack Query) · TypeScript · Next.js App Router · Tailwind CSS · Vite · REST APIs · WordPress theme/plugin development · Chrome extensions · Jira / Agile
 
-## Featured projects
-
-| Project | What it is | Stack |
-|---|---|---|
-| [**georgia-air**](https://github.com/samsonidze/georgia-air) · [live](https://georgia-air.vercel.app) | Live weather & air-quality dashboard for 12 Georgian cities: AQI-coloured map, 48 h charts, 7-day forecast, EN/KA toggle. Lighthouse 90+ on mobile, strict CSP, no API keys. | React 18, TypeScript, Vite, Tailwind 4, TanStack Query, Recharts, Leaflet |
-| [**affiliate-casino**](https://github.com/samsonidze/affiliate-casino) · [live](https://affiliate-casino-gamma.vercel.app) | Multi-page casino comparison site: search + multi-select filters, statically generated detail pages, SVG safety gauge, editorial guides. | Next.js 16, TypeScript, Tailwind, shadcn/ui |
-| [**react-jobs**](https://github.com/samsonidze/react-jobs) · [live](https://react-jobs-chi-gilt.vercel.app) | Job board with full CRUD against a REST API, nested routes and a shared layout. | React 19, React Router 7, Tailwind, json-server |
-| [**habit-tracker-react**](https://github.com/samsonidze/habit-tracker-react) · [live](https://habit-tracker-react-steel.vercel.app) | Weekly habit tracker with streaks, week navigation and a typed `useLocalStorage` hook. | React 19 + React Compiler, TypeScript, date-fns, Tailwind |
-| [**movie-search-engine**](https://github.com/samsonidze/movie-search-engine) · [live](https://movie-search-engine-coral.vercel.app) | TMDB search with popular feed and persisted favourites via Context. | React 19, React Router, TMDB API |
-| [**pdf-sentence-nav**](https://github.com/samsonidze/pdf-sentence-nav) | Chrome extension (MV3) that steps through any PDF sentence-by-sentence with Tab / Shift+Tab, using pdf.js and `Intl.Segmenter`. 100 % local. | Vanilla JS, Chrome Extensions API, pdf.js |
-
 ## Experience
 
 - **Lecturer / Mentor — Kepler Academy** (Jun 2024 – present): design and deliver HTML, CSS, JavaScript, React, Scratch and Godot courses; mentor students through hands-on projects.
@@ -36,6 +25,15 @@ React (hooks, Context, React Router, TanStack Query) · TypeScript · Next.js Ap
 - **Team Manager — Evolution Georgia** (Feb 2025 – present): manage a 60+ person team; run performance tracking, onboarding and Agile/Jira processes.
 
 🎓 B.Sc. Physics (in progress) and B.Sc. Law — University of Georgia
+## Featured projects
+
+| Project | What it is | Stack |
+|---|---|---|
+| [**Kepler Academy**](https://www.kepleracademy.ge/) | Production website for Kepler Academy, a Tbilisi learning centre for kids and teens: course catalogue, events, gallery, admissions flow, registration form and FAQ. Bilingual (KA/EN), mobile-first, WebP images, Open Graph/SEO metadata. | HTML, CSS, JavaScript |
+| [**Kepler Arena**](https://www.kepleracademy.ge/keplerarena/) | Online game platform used in class and at home: 60-second blitz quizzes, maths and logic games, team rooms where students compete against each other and a bot, points and a Top-10 leaderboard. Works on desktop and phone. | HTML, CSS, JavaScript |
+| [**georgia-air**](https://github.com/samsonidze/georgia-air) · [live](https://georgia-air.vercel.app) | Live weather & air-quality dashboard for 12 Georgian cities: AQI-coloured map, 48 h charts, 7-day forecast, EN/KA toggle. Lighthouse 90+ on mobile, strict CSP, no API keys. | React 18, TypeScript, Vite, Tailwind 4, TanStack Query, Recharts, Leaflet |
+| [**affiliate-casino**](https://github.com/samsonidze/affiliate-casino) · [live](https://affiliate-casino-gamma.vercel.app) | Multi-page casino comparison site: search + multi-select filters, statically generated detail pages, SVG safety gauge, editorial guides. | Next.js 16, TypeScript, Tailwind, shadcn/ui |
+| [**react-jobs**](https://github.com/samsonidze/react-jobs) · [live](https://react-jobs-chi-gilt.vercel.app) | Job board with full CRUD against a REST API, nested routes and a shared layout. | React 19, React Router 7, Tailwind, json-server |
 
 ---
 
